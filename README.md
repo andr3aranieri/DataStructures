@@ -18,7 +18,7 @@ the following operations:
 I use the 2 stacks as the 2 halves of the queue:
 1. all the enqueues are done in the stack1;
 2. all the dequeues and peek are done from the stack2; when stack2 is empy, we reverse the elements of stack1 in stack2. 
-This reverse operation is done addAll() method inherited by the Vector class, and Collestions.reverse.
+This reverse operation is done using the addAll() method inherited by the Vector class, and the Collestions.reverse() method.
 
 The test executed on 100000 operations (conteined in the file inputdata/MyQueue/Input1) showed a performance comparable to 
 ConcurrentLinkedQueue, LinkedBlockingDeque, LinkedBlockingQueue and LinkedTransferQueue java 7 implementations.
