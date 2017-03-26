@@ -1,2 +1,2 @@
 language: java
-script: java Main
+script: java algorithms.run.Main
