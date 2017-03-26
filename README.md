@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/andr3aranieri/DataStructures.svg?branch=master)](https://travis-ci.org/andr3aranieri/DataStructures)
+
 # DataStructures
 A reimplementation of the java data structures
 
