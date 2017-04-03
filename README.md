@@ -29,10 +29,4 @@ ConcurrentLinkedQueue, LinkedBlockingDeque, LinkedBlockingQueue and LinkedTransf
 
 Just run the Main class and you'll be asked to choose the implementation to test. 
 
-Welcome. Commands:
-   1 --> Test Queue with 2 stacks implementation;
-   2 --> Test Java Concurrent Linked Queue;
-   3 --> Test Java Linked Blocking Deque;
-   4 --> Test Java Linked Blocking Queue;
-   5 --> Test Java Linked Transfer Queue;
-
+![alt tag](https://github.com/andr3aranieri/DataStructures/blob/master/resources/WelcomeMessage.png)
