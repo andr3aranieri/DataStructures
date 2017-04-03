@@ -27,7 +27,7 @@ ConcurrentLinkedQueue, LinkedBlockingDeque, LinkedBlockingQueue and LinkedTransf
 
 # Algorithms
 
-## Running Median using 2 Priorities Queues (O(n))
+## Running Median using 2 Priority Queues (O(n))
 
 
 ###### Run
