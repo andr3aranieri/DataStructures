@@ -25,6 +25,11 @@ This reverse operation is done using the addAll() method inherited by the Vector
 The test executed on 100000 operations (conteined in the file inputdata/MyQueue/Input1) showed a performance comparable to 
 ConcurrentLinkedQueue, LinkedBlockingDeque, LinkedBlockingQueue and LinkedTransferQueue java 7 implementations.
 
+# Algorithms
+
+## Running Median using 2 Priorities Queues (O(n))
+
+
 ###### Run
 
 Just run the Main class and you'll be asked to choose the implementation to test. 
